@@ -40,13 +40,13 @@ Exploratory Data Analysis:
 * Correlation Analysis
 * Histograms and scatter plots.
 
-ML Models used for Classification:
+**ML Models used for Classification:**
 1. Logistic Regression
 2. Decision Tree
 3. Support Vector Classifier
 4. K-NearestNeighbour classifier
 
-Metrics used for analyzing performance
+**Metrics used for analyzing performance**
 1. Accuracy_score
 2. Percision_score
 3. Recall_Score
